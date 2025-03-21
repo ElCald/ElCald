@@ -2,7 +2,7 @@
 <h3 align="center">Curently, I'm an IT student in HPC at Reims University.</h3>
 
 <p align="center">
-  <img src="/img/animated-pixelart-crop.gif" alt="openmp" width="" height=""/>
+  <img src="/img/animated-pixelart-crop.gif" alt="https://tenor.com/fr/users/t0mah4wk" width="" height=""/>
 </p>
 
 - 🌱 I’m currently learning **OpenMP & OpenMPI optimization**
