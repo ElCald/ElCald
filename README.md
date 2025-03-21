@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliot Calderon</h1>
-<h3 align="center">Curently, I'm an IT student in HPC at Reims University.</h3>
+<h3 align="center">Currently, I'm an IT student in HPC at Reims University.</h3>
 
 <p align="center">
   <img src="/img/animated-pixelart-crop.gif" alt="https://tenor.com/fr/users/t0mah4wk" width="" height=""/>
