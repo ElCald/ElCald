@@ -5,7 +5,7 @@
   <img src="/img/animated-pixelart-crop.gif" alt="https://tenor.com/fr/users/t0mah4wk" width="" height=""/>
 </p>
 
-- 🌱 I’m currently learning **Parallel optimization & HPC administration system**
+- 🌱 I’m currently learning **HPC administration system & parallel optimization**
 
 - 📫 How to reach me **elcald.dev@gmail.com**
 
