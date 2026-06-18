@@ -5,13 +5,11 @@
   <img src="/img/animated-pixelart-crop.gif" alt="https://tenor.com/fr/users/t0mah4wk" width="" height=""/>
 </p>
 
-- 🌱 I’m currently learning **HPC administration system & parallel optimization**
-
-- 📫 How to reach me **elcald.dev@gmail.com**
+🌱 I’m currently learning **HPC administration system & parallel optimization**
 
 
 
-<h3 align="left">Tools and Languages:</h3>
+<h3 align="left">Tools and Languages skills :</h3>
 <p align="left">
 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="" height="35"/> </a>
@@ -36,3 +34,4 @@
   
 </p>
 
+📫 How to reach me **elcald.dev@gmail.com**
