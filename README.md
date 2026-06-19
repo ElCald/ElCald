@@ -20,19 +20,20 @@
 <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="" height="35"/> </a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="" height="35"/> </a>
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdoawn" width="" height="35"/> </a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /> </a>
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.open-mpi.org" target="_blank" rel="noreferrer"> <img src="https://www.open-mpi.org/images/open-mpi-logo.png" alt="openmpi" width="40" height="40"/> </a> 
-<a href="https://www.openmp.org" target="_blank" rel="noreferrer"> <img src="https://www.openmp.org/wp-content/uploads/openmp-header-logo-100h.png" alt="openmp" width="" height="30"/> </a> 
 <a href="https://www.libsdl.org" target="_blank" rel="noreferrer"> <img src="https://www.libsdl.org/media/SDL_logo.png" alt="SDL" width="" height="35"/> </a> 
 <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="cmake" width="" height="35"/> </a> 
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="" height="35"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="" height="35"/> </a> 
 <a href="opencv.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="" height="35"/> </a> 
-<a href="opengl.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" alt="opengl" width="" height="35"/> </a> 
-
+<a href="opengl.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" alt="opengl" width="" height="40"/> </a> 
+<a href="https://www.open-mpi.org" target="_blank" rel="noreferrer"> <img src="https://www.open-mpi.org/images/open-mpi-logo.png" alt="openmpi" width="40" height="40"/> </a> 
+<a href="https://www.openmp.org" target="_blank" rel="noreferrer"> <img src="https://www.openmp.org/wp-content/uploads/openmp-header-logo-100h.png" alt="openmp" width="" height="30"/> </a> 
 
   
 </p>
